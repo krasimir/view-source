@@ -2,7 +2,7 @@
 
 # view-source
 
-An Express.js middleware/handler to render source code.
+An Express.js add-on to render source code. Use it if you need to show source code of a project over the web.
 
 ## Usage
 
