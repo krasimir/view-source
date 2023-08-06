@@ -1,0 +1,27 @@
+{
+  "name": "view-source",
+  "version": "0.1.0",
+  "description": "An Express.js middleware/handler to render source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krasimir/view-source.git"
+  },
+  "keywords": [
+    "express",
+    "view",
+    "source"
+  ],
+  "author": "Krasimir Tsonev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krasimir/view-source/issues"
+  },
+  "homepage": "https://github.com/krasimir/view-source#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
